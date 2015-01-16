@@ -1,0 +1,32 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      rouge
+
+# Permalinks
+permalink:        /:title.html
+relative_permalinks: true
+
+# Setup
+title:            MyDev
+tagline:          'Laman Kolaborasi Komuniti MyDev'
+description:      'Suatu projek untuk memperkaya bahan berkenaan pembangunan perisian dan web dalam Bahasa Melayu.'
+url:              http://www.mydev.my
+baseurl:          /
+
+authors:
+  kamalmustafa:
+    name:         Kamal Mustafa
+    bio:          Seorang web developer dengan lebih 10 tahun pengalaman dalam bidang pembangunan aplikasi web (PHP/Python) dan IT secara umum.
+    gravatar:     dab3052b18c86b0884341d9c2c67a4f3
+  ikhwanhayat:
+    name:         Ikhwan Hayat
+    bio:          Telah membina perisian secara professional sejak 2004. Kebanyakan masa dia bergelumang dalam platform .NET. Namun kadangkala tersesat pergi ke dunia PHP, Python, Ruby, Java, dan bahasa-bahasa pengaturcaraan lain.
+    gravatar:     ffed0be2a9908059be3df617338579af
+
+paginate:         3
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
