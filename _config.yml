@@ -1,9 +1,9 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge #pygments
 
 # Permalinks
-permalink:        /:title.html
+permalink:        :title.html
 relative_permalinks: true
 
 # Setup
@@ -11,7 +11,7 @@ title:            MyDev
 tagline:          'Laman Kolaborasi Komuniti MyDev'
 description:      'Suatu projek untuk memperkaya bahan berkenaan pembangunan perisian dan web dalam Bahasa Melayu.'
 url:              http://www.mydev.my
-baseurl:          /mydev/
+baseurl:          /mydev
 
 authors:
   kamalmustafa:
@@ -24,9 +24,3 @@ authors:
     gravatar:     ffed0be2a9908059be3df617338579af
 
 paginate:         3
-
-# Custom vars
-version:          2.1.0
-
-github:
-  repo:           https://github.com/poole/hyde
