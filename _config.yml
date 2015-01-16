@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      rouge #pygments
+highlighter:      pygments
+#highlighter:      rouge
 
 # Permalinks
 permalink:        :title.html
