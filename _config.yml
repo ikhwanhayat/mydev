@@ -11,7 +11,7 @@ title:            MyDev
 tagline:          'Laman Kolaborasi Komuniti MyDev'
 description:      'Suatu projek untuk memperkaya bahan berkenaan pembangunan perisian dan web dalam Bahasa Melayu.'
 url:              http://www.mydev.my
-baseurl:          /
+baseurl:          /mydev/
 
 authors:
   kamalmustafa:
