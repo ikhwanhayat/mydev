@@ -10,6 +10,8 @@ Memetik kata-kata [Douglas Crockford][1], JavaScript adalah bahasa
 pengaturcaraan yang sering disalahfahami walaupun ianya merupakan bahasa
 pengaturcaraan yang paling popular sekali dengan penggunaan yang paling meluas.
 
+<!--more-->
+
 JavaScript, sebelum penggunaannya yang begitu meluas seperti sekarang biasanya
 menjadi bahasa kelas kedua bagi kebanyakkan programmer. Saya katakan kelas
 kedua kerana ia jarang dipelajari secara formal sepertimana bahasa lain seperti

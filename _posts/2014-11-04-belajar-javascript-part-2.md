@@ -24,6 +24,8 @@ ia dibaca dalam browser. Bagaimanapun sentiasa ada kemungkinan semasa kod
 tersebut dijalankan, DOM element yang kita cuba dapatkan masih belum disediakan
 sepenuhnya oleh browser.
 
+<!--more-->
+
 Untuk membetulkan masalah di atas, kita perlu attach function tersebut kepada
 `load` event sama ada pada object `window` ataupun pada element `body`. Contohnya adalah seperti berikut:-
 

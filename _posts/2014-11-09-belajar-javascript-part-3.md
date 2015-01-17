@@ -12,6 +12,8 @@ terlebih dahulu kerana fokusnya bukan pada JavaScript secara umum tetapi lebih
 kepada 'browser DOM programming' kerana saya ingin memulakan apa yang saya rancang
 pada bahagian 1 iaitu membina sebuah *autocomplete* ringkas.
 
+<!--more-->
+
 Kita mulakan dengan dokumen HTML ringkas seperti di bawah:-
 
 ```html

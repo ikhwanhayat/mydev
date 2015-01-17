@@ -7,6 +7,8 @@ permalink: /buku-buku-pilihan.html
 
 Senarai buku-buku yang direkomen oleh ahli-ahli komuniti MyDev. Senarai ini adalah berdasarkan [topik perbincangan][1] di laman [komuniti G+ MyDev][2].
 
+<!--more-->
+
 1. [The Pragmatic Programmer](http://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X)
 1. [Head First Design Patterns](http://shop.oreilly.com/product/9780596007126.do)
 1. [Ship It](http://pragprog.com/book/prj/ship-it)
