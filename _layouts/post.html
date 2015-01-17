@@ -15,7 +15,10 @@ layout: default
   <img class="gravatar" src="http://www.gravatar.com/avatar/{{ author.gravatar }}" />
   <div class="detail">
     <div class="name">{{ author.name }}</div>
-    <div class="bio">{{ author.bio }}</div>
+    <div class="bio">
+      {{ author.short_bio }}
+      <a href="{{ site.baseurl }}/authors.html#{{page.author}}">(lagi)</a>
+    </div>
   </div>
 </div>
 {% endif %}
