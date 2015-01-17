@@ -11,5 +11,18 @@
       {{ content }}
     </div>
 
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="{{ site.baseurl }}/public/js/toc.js"></script>
+    <script type="text/javascript">
+	$(function() {
+	    $('#toc').toc({
+	    	title: ""
+	    });
+	    $('#toc').hide();
+	    $('#toc_toggle').click(function(){
+	    	$('#toc').toggle();
+	    })
+	});
+	</script>
   </body>
 </html>
